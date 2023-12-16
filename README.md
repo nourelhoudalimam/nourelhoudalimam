@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nourelhoudalimam
-- 👀 I’m interested in ..Web development.
-- 🌱 I’m currently learning .Angular/Spring Boot..
+- 👀 I’m a Software engineer.
+- 🌱 I’m currently working on Flutter.
 
 - 📫 How to reach me .nourlimam25@gmail.com..
 
